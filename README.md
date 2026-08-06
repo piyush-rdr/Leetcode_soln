@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
