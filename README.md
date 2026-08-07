@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -29,4 +30,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
