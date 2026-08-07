@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -42,4 +43,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
