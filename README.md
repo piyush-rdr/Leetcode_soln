@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -24,12 +25,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
 ## Math
