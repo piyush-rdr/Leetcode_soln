@@ -12,6 +12,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0283-move-zeroes) |
 | [2553-separate-the-digits-in-an-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
