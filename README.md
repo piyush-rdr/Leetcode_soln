@@ -30,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0242-valid-anagram) |
 | [2784-check-if-array-is-good](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0242-valid-anagram) |
 | [2784-check-if-array-is-good](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/piyush-rdr/Leetcode_soln/tree/master/3731-find-missing-elements) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
