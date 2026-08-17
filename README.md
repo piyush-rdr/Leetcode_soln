@@ -54,6 +54,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -79,5 +80,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
