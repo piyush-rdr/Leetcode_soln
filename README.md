@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,11 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/piyush-rdr/Leetcode_soln/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
